@@ -1,0 +1,13 @@
+pandas
+pdfplumber
+PyPDF2
+openai
+transformers
+langchain
+streamlit
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+huggingface-hub
+python-dotenv
