@@ -24,8 +24,6 @@ PDF Parsing: pdfplumber or PyPDF
 
 LLM Integration: Gemini API or Hugging Face Transformers
 
-LLM Workflow Management: Langflow
-
 UI Frameworks: Streamlit or Gradio
 
 Deployment Platform: Hugging Face Spaces
